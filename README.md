@@ -5,8 +5,8 @@ This is my first project which I'm uploading on my github repository. This is th
 
 REQUIREMENTS:
 
->> 4GB Ram and 256GB SSD for smooth and more optimised performance
->> VS Code, Jupyter notebook, Pycharm or any other interpreter which supports python
->> Python version: 3.8+
+1. 4GB Ram and 256GB SSD for smooth and more optimised performance
+2. VS Code, Jupyter notebook, Pycharm or any other interpreter which supports python
+3. Python version: 3.8+
 
 Thank you :)
