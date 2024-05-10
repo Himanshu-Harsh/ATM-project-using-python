@@ -7,6 +7,6 @@ REQUIREMENTS:
 
 1. 4GB Ram and 256GB SSD for smooth and more optimised performance
 2. VS Code, Jupyter notebook, Pycharm or any other interpreter which supports python
-3. Python version: 3.8+
+3. Python version: 3.11+
 
 Thank you :)
